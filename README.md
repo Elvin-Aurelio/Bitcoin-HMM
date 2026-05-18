@@ -267,13 +267,6 @@ Contributions welcome! Please:
 4. Push to the branch
 5. Open a Pull Request
 
-## 📞 Support & Questions
-
-For questions or issues:
-- Check existing GitHub issues
-- Review notebook examples
-- Examine source code comments (extensively documented in Indonesian & English)
-
 ---
 
 **Last Updated**: May 2026  
